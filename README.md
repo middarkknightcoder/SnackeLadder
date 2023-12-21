@@ -10,4 +10,6 @@
 <p>This is Demo of the Snack and Ladder Game playing</p>
 <img width="318" alt="GameExecution" src="https://github.com/middarkknightcoder/SnackeLadder/assets/107356761/9420d3a2-f9c1-460d-9ab7-f250ff990537">
 
-
+<h2>Game Tracker</h2>
+<p>-In this game i was writen code for store the all position and who is win the privews game all information store into the text file.</p>
+<img width="285" alt="GameInfo" src="https://github.com/middarkknightcoder/SnackeLadder/assets/107356761/01c5fdbd-b46c-4770-9f10-87f29bb1edd4">
